@@ -4,7 +4,7 @@ The task is to create Android app which shows a list of messages and supports de
 
 
 ## Input data
-Messages should be donwloaded from this endpoint:
+Messages should be downloaded from this endpoint:
 
 ```
 https://rawgit.com/zbsz/test_app/master/{PAGE}.json
