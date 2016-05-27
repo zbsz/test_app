@@ -21,7 +21,7 @@ Your app should:
 - display messages in scrollable list on screen
 - give user a way to delete specific message, preferably by swiping, but long press is also acceptable
 
-Everything else is up to you, implement this features however you want. 
+Everything else is up to you, implement it however you want. 
 Feel free to add more features that you think would be nice and will show your skills.
 Take as much time as you need.
 
