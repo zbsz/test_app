@@ -25,6 +25,8 @@ Everything else is up to you, implement this features however you want.
 Feel free to add more features that you think would be nice and will show your skills.
 Take as much time as you need.
 
+As always, clean and tested code counts the most. 
+
 ## Suggestions for bonus points
 
 - lazy loading, client doesn't need to load all available messages on start, notice that messages are sorted, 
